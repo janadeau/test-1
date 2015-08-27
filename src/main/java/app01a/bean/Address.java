@@ -1,5 +1,10 @@
 package app01a.bean;
 
+/**
+ * @author jnadeau
+ * A class representing an Address.
+ *
+ */
 public class Address {
   private String line1;
     private String line2;
